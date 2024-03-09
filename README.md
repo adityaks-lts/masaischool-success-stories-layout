@@ -1,1 +1,1 @@
-"# masaischool-success-stories-layout" 
+# masaischool-success-stories-layout
